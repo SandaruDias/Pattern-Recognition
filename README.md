@@ -1,2 +1,2 @@
 # Pattern-Recognition
-EN3150 - Google Colab - 
+EN3150 - Google Colab  
